@@ -7,3 +7,13 @@
 - [第一题](doc/1-solve/1-Solve.md)
 - [第二题](doc/2-solve/2-Solve.md)
 
+
+
+------
+
+
+
+# JalrAlgsLeetCode
+
+> 仓库还小，现在有空刷的leetcode先合并到这个仓库了
+

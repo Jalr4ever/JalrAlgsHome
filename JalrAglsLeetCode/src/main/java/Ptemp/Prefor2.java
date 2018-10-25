@@ -82,6 +82,39 @@
     }
     class Prefor2 {
         public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+            boolean isUSE=false;
+            ListNode ltemp1 = l1;
+            ListNode ltemp2 = l2;
+            int count_l1 = 0;
+            int count_l2 = 0;
+            int length;
+            while (ltemp1 !=null){
+                count_l1++;
+                ltemp1 = ltemp1.next;
+            }
+            while (ltemp2 != null){
+                count_l2++;
+                ltemp2 = ltemp2.next;
+            }
+            if(count_l1 > count_l2){
+                length = count_l1+1;
+            }
+            else {
+                length = count_l2+1;
+            }
+            if (count_l1 < count_l2){
+                for(int k = 0; k < length-1; k++){
+
+                }
+            }
+            else if (count_l1 > count_l2){
+
+            }
+            else{ //count_l1 == count_l2
+
+            }
+
+
 
             return null;
         }

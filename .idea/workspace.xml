@@ -31,8 +31,8 @@
       <file leaf-file-name="AddTwo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Pt1/AddTwo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+            <state relative-caret-position="469">
+              <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#213#214#0" expanded="true" />
@@ -45,8 +45,8 @@
       <file leaf-file-name="Prefor2.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Ptemp/Prefor2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="80" column="5" lean-forward="true" selection-end-line="92" />
+            <state relative-caret-position="-488">
+              <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
               <folding>
                 <element signature="e#218#219#0" expanded="true" />
                 <element signature="e#248#249#0" expanded="true" />
@@ -320,12 +320,12 @@
       <updated>1540272349691</updated>
       <workItem from="1540272351233" duration="1374000" />
       <workItem from="1540356260277" duration="2630000" />
-      <workItem from="1540444552794" duration="22294000" />
+      <workItem from="1540444552794" duration="23078000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26298000" />
+    <option name="totallyTimeSpent" value="27082000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1616" height="886" extended-state="6" />
@@ -341,7 +341,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32896653" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.11208151" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.02183406" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -436,8 +436,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Pt1/AddTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="33" column="37" lean-forward="true" selection-start-line="33" selection-start-column="37" selection-end-line="33" selection-end-column="37" />
+        <state relative-caret-position="469">
+          <caret line="45" column="13" lean-forward="true" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#213#214#0" expanded="true" />
@@ -448,8 +448,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Ptemp/Prefor2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="80" column="5" lean-forward="true" selection-end-line="92" />
+        <state relative-caret-position="-488">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
           <folding>
             <element signature="e#218#219#0" expanded="true" />
             <element signature="e#248#249#0" expanded="true" />

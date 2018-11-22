@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Pt1/AddTwo.java" line="130" />
+    <bookmark url="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Pt1/AddTwo.java" line="119" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3ac7cc6-d288-4e90-ad32-709f23adf961" name="Default" comment="" />
@@ -14,25 +14,49 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="106">
+              <caret line="10" selection-start-line="10" selection-end-line="15" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="AlgsAssignmentPt1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JalrAglsHome/src/code/Pt1/AlgsAssignmentPt1.java">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="twoSum.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="twoSum.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Pt1/twoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="362">
+              <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddTwo.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="twoSumTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/test/main/java/Pt1/twoSumTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="331">
+              <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AddTwo.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Pt1/AddTwo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-857">
-              <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+            <state relative-caret-position="225">
+              <caret line="44" column="14" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,6 +79,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -78,6 +103,9 @@
       <list>
         <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Ptemp/Prefor2.java" />
         <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Pt1/AddTwo.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/pom.xml" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/test/main/java/Pt1/twoSumTest.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Pt1/twoSum.java" />
       </list>
     </option>
   </component>
@@ -101,8 +129,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -160,11 +188,31 @@
               <item name="JalrAlgsBin" type="b2602c69:ProjectViewProjectNode" />
               <item name="JalrAlgsBin" type="462c0819:PsiDirectoryNode" />
               <item name="JalrAglsLeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JalrAlgsBin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JalrAlgsBin" type="462c0819:PsiDirectoryNode" />
+              <item name="JalrAglsLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JalrAlgsBin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JalrAlgsBin" type="462c0819:PsiDirectoryNode" />
+              <item name="JalrAglsLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JalrAlgsBin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JalrAlgsBin" type="462c0819:PsiDirectoryNode" />
+              <item name="JalrAglsLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Pt1" type="462c0819:PsiDirectoryNode" />
-              <item name="AddTwo.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -176,13 +224,23 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/Cmder/Cmder.exe" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../LearnSpringBoot/LearnBasic" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.32628676" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="main.java.Pt1" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -196,7 +254,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Prefor2">
+  <component name="RunManager" selected="JUnit.twoSumTest.twoSum">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -241,6 +299,29 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="twoSumTest.twoSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JalrAlgsBin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.Pt1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="main.java.Pt1" />
+      <option name="MAIN_CLASS_NAME" value="main.java.Pt1.twoSumTest" />
+      <option name="METHOD_NAME" value="twoSum" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -266,9 +347,11 @@
     <list>
       <item itemvalue="Application.AddTwo" />
       <item itemvalue="Application.Prefor2" />
+      <item itemvalue="JUnit.twoSumTest.twoSum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.twoSumTest.twoSum" />
         <item itemvalue="Application.Prefor2" />
         <item itemvalue="Application.AddTwo" />
       </list>
@@ -288,15 +371,26 @@
       <workItem from="1540356260277" duration="2630000" />
       <workItem from="1540444552794" duration="23078000" />
       <workItem from="1540519957966" duration="4638000" />
+      <workItem from="1541312866771" duration="2312000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="twoSumTest_twoSum - 2018.11.04 at 14h 30m 20s.xml">
+      <configuration name="twoSumTest.twoSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="twoSumTest_twoSum - 2018.11.04 at 14h 30m 28s.xml">
+      <configuration name="twoSumTest.twoSum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="twoSumTest_twoSum - 2018.11.04 at 14h 37m 54s.xml">
+      <configuration name="twoSumTest.twoSum" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31720000" />
+    <option name="totallyTimeSpent" value="34032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1600" height="900" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -304,15 +398,15 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.501943" side_tool="true" visible="true" weight="0.16968912" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.111398965" side_tool="true" weight="0.3626943" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32896653" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.498057" visible="true" weight="0.16968912" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.88860106" weight="0.20207255" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26360103" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2681347" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -340,10 +434,40 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="27" />
+      <option name="time" value="30" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/JalrAglsHome/src/code/Pt1/AlgsAssignmentPt1.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Pt1/twoSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsHome/src/code/Pt2/AlgsAssignmentPt2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Pt1/AddTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="36" column="23" lean-forward="true" selection-start-line="36" selection-start-column="23" selection-end-line="36" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/JalrAglsHome/src/code/Pt1/AlgsAssignmentPt1.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -371,16 +495,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Ptemp/Prefor2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
-          <folding>
-            <element signature="method#addTwoNumbers#0;class#Prefor2#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Ptemp/Prefor2.java" />
     <entry file="file://$PROJECT_DIR$/JalrAglsHome/src/code/Pt1/AlgsAssignmentPt1.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -425,27 +540,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Ptemp/Prefor2.java">
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Ptemp/Prefor2.java" />
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Pt1/AddTwo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="225">
+          <caret line="44" column="14" selection-start-line="44" selection-start-column="14" selection-end-line="44" selection-end-column="14" />
           <folding>
-            <element signature="method#addTwoNumbers#0;class#Prefor2#0" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="10" selection-start-line="10" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/test/main/java/Pt1/twoSumTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Pt1/twoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/Pt1/AddTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-857">
-          <caret line="36" column="34" lean-forward="true" selection-start-line="36" selection-start-column="34" selection-end-line="36" selection-end-column="34" />
+        <state relative-caret-position="362">
+          <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -10,9 +10,7 @@
 
   - 在草稿纸画出来，假设作业所用时间为：{ 5, 7, 2, 3, 3 }，机器有三台：{ m1, m2, m3 }，那么会发现，按原顺序，或其他作业顺序分配给机器，得到的时间是不一样的，而且按照作业从大到小分配，时间从 7, 5, 3, 3, 2 这个序列执行时，是最短的！是具体分析如下：
 
-
-
-    ![](img/Scheduling analysis.png)
+  ![](img/Scheduling_analysis.png)
 
   - **接着用贪心策略**：思路已经有了，那么就是每次机器空闲时分配给机器的都是最长的那个时间的作业就好了！
 
@@ -24,7 +22,7 @@
     - UNAVAIL：宏定义为 -2 ，表示不可用
     - nextJob：整数模拟的一个指针，指向数组的第一个**将要放入机器**的作业时间
 
-    ![](img/Scheduling exp1.png)
+    ![](img/Scheduling_exp1.png)
 
 - **总结**：本次在用 Java 实现时还是碰到了许多坑
 
@@ -43,4 +41,4 @@
 
   答案如下：
 
-  ![Scheduling code](img/Scheduling code.png)
+  ![Scheduling code](img/Scheduling_code.png)

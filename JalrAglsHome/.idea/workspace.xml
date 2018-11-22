@@ -47,8 +47,8 @@
       <file leaf-file-name="AlgsAssignmnetPt4.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/code/Pt4/AlgsAssignmnetPt4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="63" column="17" lean-forward="true" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+            <state relative-caret-position="175">
+              <caret line="7" column="6" lean-forward="true" selection-end-line="154" />
             </state>
           </provider>
         </entry>
@@ -269,12 +269,12 @@
       <workItem from="1542501648387" duration="5861000" />
       <workItem from="1542801319069" duration="7690000" />
       <workItem from="1542845140028" duration="10792000" />
-      <workItem from="1542871823987" duration="1708000" />
+      <workItem from="1542871823987" duration="2440000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28413000" />
+    <option name="totallyTimeSpent" value="29145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1616" height="886" extended-state="6" />
@@ -290,7 +290,7 @@
       <window_info anchor="right" id="Maven Projects" order="9" visible="true" weight="0.0" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.047965117" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.0625" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
@@ -452,8 +452,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/code/Pt4/AlgsAssignmnetPt4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="63" column="17" lean-forward="true" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+        <state relative-caret-position="175">
+          <caret line="7" column="6" lean-forward="true" selection-end-line="154" />
         </state>
       </provider>
     </entry>

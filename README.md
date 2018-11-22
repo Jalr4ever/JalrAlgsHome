@@ -6,6 +6,7 @@
 
 - [第一题](doc/1-solve/1-Solve.md)
 - [第二题](doc/2-solve/2-Solve.md)
+- [第四题](doc/4-solve/4-Solve.md)
 
 
 

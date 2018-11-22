@@ -20,8 +20,8 @@ public class AlgsAssignmnetPt4 {
 //    static int nextMachine = 0;                    //指向可用的 Machine索引
 
     public static int machineWork(){
-
-        int result = 1;
+        boolean check_all = false;
+        int result = 0;
 
         Sort(timeNeed);//完成从大到小的排序
 
@@ -35,7 +35,7 @@ public class AlgsAssignmnetPt4 {
                     machine[1][machine_avail] = timeNeed[nextJob];
                     nextJob++;
                 }
-                if(machine_avail == UNAVAIL){
+                if(machine_avail == UNAVAIL || nextJob >=n ){
                     break;
                 }
             }
@@ -46,10 +46,25 @@ public class AlgsAssignmnetPt4 {
                         machine[0][i] = AVAIL;
                     }
                 }
+                for(int k = 0; k < machine[0].length; k++){
+                    System.out.print(machine[1][k]+"   ");
+                }
+                System.out.println();
             }
             result++;
-            if(nextJob == n){
-                break;
+            if(nextJob == n){ //作业全部分配完 & 每个作业都完成了
+                for(int k = 0; k < machine[0].length; k++){
+                    if(machine[0][k] == AVAIL){
+                        check_all = true;
+                    }
+                    else {
+                        check_all = false;
+                        break;
+                    }
+                }
+                if (check_all){
+                    break;
+                }
             }
         }
         return result;
@@ -135,6 +150,5 @@ public class AlgsAssignmnetPt4 {
         timeNeed[6] = 3;
         result = machineWork();
         System.out.println("No.2 Time: "+result);
-
     }
 }

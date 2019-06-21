@@ -1,0 +1,39 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - underlineToHump",
+            "request": "launch",
+            "mainClass": "common.underlineToHump",
+            "projectName": "FromOldVSCode"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - External Terminal",
+            "request": "launch",
+            "console": "externalTerminal",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HuiWen",
+            "request": "launch",
+            "mainClass": "newcoder.campus_2017_5.HuiWen",
+            "projectName": "FromOldVSCode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - randDemo",
+            "request": "launch",
+            "mainClass": "common.randDemo",
+            "projectName": "FromOldVSCode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "FromOldVSCode"
+        }
+    ]
+}

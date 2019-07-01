@@ -2,37 +2,65 @@
     "configurations": [
         {
             "type": "java",
-            "name": "CodeLens (Launch) - underlineToHump",
+            "name": "CodeLens (Launch) - Main",
             "request": "launch",
-            "mainClass": "common.underlineToHump",
+            "mainClass": "app.Main",
             "projectName": "FromOldVSCode"
         },
         {
             "type": "java",
-            "name": "Debug (Launch) - External Terminal",
+            "name": "CodeLens (Launch) - SelectSort",
             "request": "launch",
-            "console": "externalTerminal",
-            "mainClass": ""
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - HuiWen",
-            "request": "launch",
-            "mainClass": "newcoder.campus_2017_5.HuiWen",
+            "mainClass": "common.NoneRecursive.SelectSort",
             "projectName": "FromOldVSCode"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - randDemo",
+            "name": "CodeLens (Launch) - InsertSort",
             "request": "launch",
-            "mainClass": "common.randDemo",
+            "mainClass": "common.NoneRecursive.InsertSort",
             "projectName": "FromOldVSCode"
         },
         {
             "type": "java",
-            "name": "CodeLens (Launch) - App",
+            "name": "CodeLens (Launch) - BubbleSort",
             "request": "launch",
-            "mainClass": "app.App",
+            "mainClass": "common.NoneRecursive.BubbleSort",
+            "projectName": "FromOldVSCode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QuickSort",
+            "request": "launch",
+            "mainClass": "common.NoneRecursive.QuickSort",
+            "projectName": "FromOldVSCode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MergeSort",
+            "request": "launch",
+            "mainClass": "common.NoneRecursive.MergeSort",
+            "projectName": "FromOldVSCode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HeapSort",
+            "request": "launch",
+            "mainClass": "common.HeapSort",
+            "projectName": "FromOldVSCode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - QuickSort",
+            "request": "launch",
+            "mainClass": "common.QuickSort",
+            "projectName": "FromOldVSCode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MergeSort",
+            "request": "launch",
+            "mainClass": "common.MergeSort",
             "projectName": "FromOldVSCode"
         }
     ]

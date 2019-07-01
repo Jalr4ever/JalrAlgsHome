@@ -2,17 +2,30 @@ package common;
 
 class randDemo {
     public static void main(String[] args) {
-        rand5();
+        int i = 0;
+        while (i < 100) {
+            i++;
+            System.out.print(rand7());
+            if (i % 5 == 0) {
+                System.out.println("");
+            }
+        }
     }
 
     public static int rand5() {
         int r = 5;
-        System.out.println(rand7());
-        return r;
+        return (int) ((r) * Math.random() + 1);// 范围 [1, r+1)，也就是 [1, r]
     }
 
     public static int rand7() {
-        int r = 7;
-        return (int) ((r + 1) * Math.random()); //范围 [0, r+1)，也就是 [0, r] 
+        int res = 0;
+        while (true) {
+            res = rand5() * 4 + rand5();
+            if (res <= 21) {
+                break;
+            }
+        }
+        return (res % 7) + 1;
     }
+
 }

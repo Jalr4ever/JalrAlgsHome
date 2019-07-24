@@ -2,65 +2,51 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Te",
+            "request": "launch",
+            "mainClass": "app.Te",
+            "projectName": "FromOldVSCode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "app.Test",
+            "projectName": "FromOldVSCode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution",
+            "request": "launch",
+            "mainClass": "jianzhi.Solution",
+            "projectName": "FromOldVSCode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "leetcode.leetcode_me.Test",
+            "projectName": "FromOldVSCode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Rotate",
+            "request": "launch",
+            "mainClass": "newcoder.campus_2016.Rotate",
+            "projectName": "FromOldVSCode"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ClockwiseMatrix",
+            "request": "launch",
+            "mainClass": "jianzhi.ClockwiseMatrix",
+            "projectName": "FromOldVSCode"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Main",
             "request": "launch",
             "mainClass": "app.Main",
-            "projectName": "FromOldVSCode"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - SelectSort",
-            "request": "launch",
-            "mainClass": "common.NoneRecursive.SelectSort",
-            "projectName": "FromOldVSCode"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - InsertSort",
-            "request": "launch",
-            "mainClass": "common.NoneRecursive.InsertSort",
-            "projectName": "FromOldVSCode"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - BubbleSort",
-            "request": "launch",
-            "mainClass": "common.NoneRecursive.BubbleSort",
-            "projectName": "FromOldVSCode"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - QuickSort",
-            "request": "launch",
-            "mainClass": "common.NoneRecursive.QuickSort",
-            "projectName": "FromOldVSCode"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - MergeSort",
-            "request": "launch",
-            "mainClass": "common.NoneRecursive.MergeSort",
-            "projectName": "FromOldVSCode"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - HeapSort",
-            "request": "launch",
-            "mainClass": "common.HeapSort",
-            "projectName": "FromOldVSCode"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - QuickSort",
-            "request": "launch",
-            "mainClass": "common.QuickSort",
-            "projectName": "FromOldVSCode"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - MergeSort",
-            "request": "launch",
-            "mainClass": "common.MergeSort",
             "projectName": "FromOldVSCode"
         }
     ]

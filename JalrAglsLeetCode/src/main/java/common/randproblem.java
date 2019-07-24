@@ -1,5 +1,8 @@
 package common;
 
+/**
+ * rand() 问题
+ */
 class randDemo {
     public static void main(String[] args) {
         int i = 0;

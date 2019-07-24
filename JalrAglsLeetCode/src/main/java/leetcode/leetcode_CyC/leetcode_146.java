@@ -20,13 +20,13 @@ put() 的时候要特别注意
 所以，主要造成时间复杂度过大，效率过慢的情况就是双向链表存在该键，从双向链表里查找到该键值，再放到双向链表尾部这一
 
 */
-class LRUCache {
+class LRUCacheII {
 
     private int capacity;
     Map<Integer, Integer> cache; // cahce 存的是每一组键值对
     LinkedList<Integer> leastRecentUseList; // 最近最久未使用使用链表更新
 
-    public LRUCache(int capacity) {
+    public LRUCacheII(int capacity) {
         this.capacity = capacity;
         this.cache = new HashMap<>();
         this.leastRecentUseList = new LinkedList<>();

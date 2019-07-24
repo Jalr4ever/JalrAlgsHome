@@ -1,38 +1,58 @@
-package newcoder.campus_2016;
+package app;
+
+import java.util.Stack;
 
 class ReverseStack {
-    public static void main(String[] args) {
-        int[] stack = { 5, 4, 3, 2, 1 };
-        int[] stacknew = reverseStackRecursively(stack, 5);
-        for (int i : stacknew) {
-            System.out.print(i + "  ");
-        }
-
-    }
-
-    public static int[] reverseStackRecursively(int[] stack, int top) {
-        if (stack == null || stack.length == 0 || top == 0) {
-            return null;
-        }
-
-        reverseStack(stack, 0, top, top);
+    public int[] reverseStackRecursively(int[] stack, int top) {
+        reverse(stack, top, top);
         return stack;
-
     }
 
-    private static int reverseStack(int[] stack, int start, int top, int end) {
-        if (stack == null || stack.length == 0 || top == 0) {
-            return -1;
+    private int reverse(int[] stack, int top, int bottom) {
+
+        int cur = stack[--top];
+
+        if (top == 0) {
+            stack[--bottom] = cur;
+            return bottom;
         }
-        int current = stack[--top];
-        if (top == start) { // 栈底
-            stack[end - 1] = current;
-            return end - 1;
-        } else {
-            int nextIndex = reverseStack(stack, start, top, end);
-            stack[nextIndex - 1] = current;
-            return nextIndex - 1;
-        }
+
+        int lastBottom = reverse(stack, top, bottom);
+        stack[--lastBottom] = cur;
+        return lastBottom;
+    }
+}
+
+class ReverseStackII {
+
+    public void reverseStackRecursively(Stack<Integer> stack) {
+        reverse(stack);
     }
 
+    private int getLastAndDelete(Stack<Integer> stack) {
+        int cur = stack.pop();
+        if (stack.isEmpty()) {
+            return cur;
+        }
+        int last = getLastAndDelete(stack);
+        stack.push(cur);
+        return last;
+    }
+
+    private void reverse(Stack<Integer> stack) {
+
+        if (stack.isEmpty()) {
+            return;
+        }
+
+        int cur = getLastAndDelete(stack);
+        reverse(stack);
+        stack.push(cur);
+
+    }
+}
+
+class Te {
+    public static void main(String[] args) {
+    }
 }

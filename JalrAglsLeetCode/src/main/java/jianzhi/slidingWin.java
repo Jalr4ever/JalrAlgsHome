@@ -1,72 +1,68 @@
-package jianzhi;
+package app;
 
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.LinkedList;
 import java.util.PriorityQueue;
 
-class SolutionSlidingWin {
-    public static void main(String[] args) {
-        int[] test = { 2, 3, 4, 2, 6, 2, 5, 1 };
-        new SolutionSlidingWin().maxInWindowsI(test, 3);
-    }
+class Solution {
+    public ArrayList<Integer> maxInWindows(int[] num, int size) {
 
-    public ArrayList<Integer> maxInWindowsI(int[] num, int size) {
+        ArrayList<Integer> res = new ArrayList<>();
 
-        ArrayList<Integer> result = new ArrayList<>();
-
-        if (num == null || num.length < size || size == 0) {
-            return result;
-        }
-
-        LinkedList<Integer> maxdeque = new LinkedList<>();
-        for (int i = 0; i < num.length; i++) {
-            // 保证插入到大元素的后面
-            while (!maxdeque.isEmpty() && num[maxdeque.peekLast()] <= num[i]) {
-                maxdeque.pollLast();
-            }
-
-            // 插入到大元素的后面, 保证队头一定是最大的
-            maxdeque.addLast(i);
-
-            // 检查过期元素, 在达到 size 时才有第一次过期
-            if (maxdeque.peekFirst() == i - size) {
-                maxdeque.pollFirst();
-            }
-
-            // 检查是否出现滑动窗口, 出现将最大值加入结果
-            if (i >= size - 1) {
-                result.add(num[maxdeque.peekFirst()]);
-            }
-        }
-
-        return result;
-    }
-
-    public ArrayList<Integer> maxInWindowsII(int[] num, int size) {
-
-        if (num == null) {
-            return null;
-        }
-
-        ArrayList<Integer> result = new ArrayList<>();
-
-        if (size == 0) {
-            return result;
+        if (num == null || size == 0) {
+            return res;
         }
 
         PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Comparator.reverseOrder());
 
         for (int i = 0; i < num.length; i++) {
-            if (maxHeap.size() < size) {
-                maxHeap.add(num[i]);
-                if (maxHeap.size() == size) {
-                    result.add(maxHeap.peek());
-                    maxHeap.remove(num[i + 1 - size]); // 移除过期元素
-                }
+            maxHeap.add(num[i]);
+            if (i >= size - 1) {
+                res.add(maxHeap.peek());
+                maxHeap.remove((Integer) num[i - (size - 1)]);
+            }
+        }
+        return res;
+    }
+}
+
+class SolutionII {
+    public ArrayList<Integer> maxInWindows(int[] num, int size) {
+        ArrayList<Integer> res = new ArrayList<>();
+
+        if (num == null || size == 0) {
+            return res;
+        }
+
+        LinkedList<Integer> maxWin = new LinkedList<>();
+        for (int i = 0; i < num.length; i++) {
+
+            while (!maxWin.isEmpty() && num[maxWin.peekLast()] < num[i]) {
+                maxWin.pollLast();
+            }
+            maxWin.addLast(i);
+
+            while (maxWin.peekFirst() < i - (size - 1)) {
+                maxWin.pollFirst();
+            }
+
+            if (i >= size - 1) {
+                res.add(num[maxWin.peekFirst()]);
             }
         }
 
-        return result;
+        return res;
+    }
+}
+
+class Teee {
+    public static void main(String[] args) {
+        int[] num = { 2, 3, 4, 2, 6, 2, 5, 1 };
+        // Solution ss = new Solution();
+        // ArrayList<Integer> res = ss.maxInWindows(num, 3);
+        SolutionII s2 = new SolutionII();
+        ArrayList<Integer> res = s2.maxInWindows(num, 3);
+        System.out.println("now");
     }
 }

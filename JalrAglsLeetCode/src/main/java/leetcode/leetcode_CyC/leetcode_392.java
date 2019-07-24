@@ -1,6 +1,5 @@
 package leetcode.leetcode_CyC;
 
-
 class Solution392 {
 
     public static void main(String[] args) {
@@ -31,8 +30,8 @@ class Solution392 {
     /**
      * 双指针
      * 
-     * @param s
-     * @param t
+     * @param s - 子串
+     * @param t - 全串
      * @return
      */
     public boolean isSubsequence(String s, String t) {
@@ -41,12 +40,10 @@ class Solution392 {
         while (p1 < s.length() && p2 < t.length()) {
             if (s.charAt(p1) == t.charAt(p2)) {
                 p1++;
-                p2++;
-            } else if (s.charAt(p1) != t.charAt(p2)) {
-                p2++;
             }
+            p2++;
         }
 
-        return p1 >= s.length() ? true : false;
+        return p1 == s.length() ? true : false;
     }
 }

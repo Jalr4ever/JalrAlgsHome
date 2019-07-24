@@ -1,5 +1,8 @@
 package common;
 
+/**
+ * 下划线转驼峰书写
+ */
 class underlineToHump {
     public static void main(String[] args) {
         String S = "udeder_line_is_ok_p";
@@ -8,7 +11,7 @@ class underlineToHump {
 
     public static String underlineToCamel(String param) {
         char Underline = '_';
-        
+
         if (param == null) {
             return "";
         }

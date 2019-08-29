@@ -1,5 +1,6 @@
-package jianzhi;
+package main.java.jianzhi;
 
+/*
 class TreeNode {
     int val = 0;
     TreeNode left = null;
@@ -11,7 +12,7 @@ class TreeNode {
     }
 
 }
-
+*/
 class SerializeBiTree {
     String Serialize(TreeNode root) {
         if (root == null) {

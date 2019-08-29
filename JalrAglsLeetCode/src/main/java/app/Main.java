@@ -1,80 +1,90 @@
 package main.java.app;
 
-
-import com.sun.org.apache.bcel.internal.generic.INEG;
-import com.sun.org.apache.bcel.internal.generic.POP;
-import com.sun.org.apache.bcel.internal.generic.SWAP;
-import javafx.scene.shape.Circle;
-import org.w3c.dom.ls.LSInput;
-
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.net.URI;
 import java.util.*;
-import java.util.logging.Level;
 
-/**
- * @program: JalrAlgsBin
- * @description: 算法题的数组模板
- * <p>
- * Created by jalr on 2019/7/21.
- */
-
-class TreeNode {
-
+class ListNode {
     int val;
-    TreeNode left;
-    TreeNode right;
+    ListNode next = null;
 
-    public TreeNode(int val) {
+    ListNode(int val) {
         this.val = val;
     }
+}
 
+class Main {
+    private static List<List<Character>> res = new ArrayList<>();
+    private static Stack<Character> path = new Stack<>();
+
+    private static void sub(char[] chars, int curSize, int len) {
+        if (curSize == len) {
+            res.add(new ArrayList<>(path));
+            return;
+        }
+
+        sub(chars, curSize + 1, len); //选择不加
+        path.push(chars[curSize]);
+        sub(chars, curSize + 1, len); //选择加
+        path.pop(); //状态重置
+
+    }
+
+    public static void main(String[] args) {
+        String S = "abc";
+        sub(S.toCharArray(), 0, S.length());
+        for (List<Character> r : res) {
+            System.out.println(r);
+        }
+        new ArrayList<>(new PriorityQueue<>());
+    }
 }
 
 class Solution {
-    LinkedList<TreeNode> queue1 = new LinkedList<>();
-    LinkedList<TreeNode> queue2 = new LinkedList<>();
 
-    public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> res = new ArrayList<>();
-        TreeNode cur = root;
-        if (cur == null) {
+}
+
+class SolutionII {
+
+    // curSize 表示当前的路径 path 里面有多少个元素
+    private Stack<Integer> path = new Stack<>();
+    private List<List<Integer>> res = new ArrayList<>();
+    boolean[] visited;
+
+
+    private void generatePermution(int[] nums, int curSize, int len) {
+        if (curSize == len) {
+            // 此时 path 已经保存了 nums 中的所有数字，已经成为了一个排列
+            res.add(new ArrayList<>(path));
+            return;
+        }
+        for (int i = 0; i < len; i++) {
+            if (!visited[i]) {
+                path.push(nums[i]);
+                visited[i] = true;
+                generatePermution(nums, curSize + 1, len);
+                // 刚开始接触回溯算法的时候常常会忽略状态重置
+                // 回溯的时候，一定要记得状态重置
+                path.pop();
+                visited[i] = false;
+            }
+        }
+    }
+
+    public List<List<Integer>> permute(int[] nums) {
+        int len = nums.length;
+        if (len == 0) {
             return res;
         }
-
-        queue1.add(cur);
-        while (!queue1.isEmpty()) {
-            List<Integer> temp = new ArrayList<>();
-            while (!queue1.isEmpty()) {
-                cur = queue1.pollFirst();
-                if (cur.left != null) {
-                    queue2.add(cur.left);
-                }
-
-                if (cur.right != null) {
-                    queue2.add(cur.right);
-                }
-                temp.add(cur.val);
-            }
-            res.add(temp);
-            swap();
-        }
+        visited = new boolean[len];
+        generatePermution(nums, 0, len);
         return res;
     }
 
-    private void swap() {
-        LinkedList<TreeNode> temp = queue1;
-        queue1 = queue2;
-        queue2 = temp;
-    }
-}
-
-class Got {
     public static void main(String[] args) {
-
+        int[] nums = new int[]{1, 2, 3};
+        SolutionII solution = new SolutionII();
+        List<List<Integer>> permute = solution.permute(nums);
+        for (int i = 0; i < permute.size(); i++) {
+            System.out.println(permute.get(i));
+        }
     }
-
 }
-

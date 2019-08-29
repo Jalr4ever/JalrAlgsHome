@@ -1,4 +1,4 @@
-package jianzhi;
+package main.java.jianzhi;
 
 import java.util.Stack;
 

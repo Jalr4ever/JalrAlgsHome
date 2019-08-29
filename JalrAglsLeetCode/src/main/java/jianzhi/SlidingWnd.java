@@ -1,11 +1,11 @@
-package app;
+package main.java.jianzhi;
 
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.LinkedList;
 import java.util.PriorityQueue;
 
-class Solution {
+class SidingWnd {
     public ArrayList<Integer> maxInWindows(int[] num, int size) {
 
         ArrayList<Integer> res = new ArrayList<>();

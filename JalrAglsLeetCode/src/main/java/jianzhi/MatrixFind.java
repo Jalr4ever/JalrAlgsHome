@@ -6,7 +6,7 @@ package main.java.jianzhi;
  * <p>
  * Created by jalr on 2019/7/21.
  */
-public class matrixFind {
+public class MatrixFind {
     public boolean Find(int target, int[][] array) {
         if (array == null || array.length == 0 || array[0].length == 0) {
             return false;

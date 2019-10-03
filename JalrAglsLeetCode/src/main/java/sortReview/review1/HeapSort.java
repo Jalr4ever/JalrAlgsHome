@@ -5,7 +5,7 @@ class HeapSort {
     private static int temp_num = -1;
 
     public static void main(String[] args) {
-        int[] arr = { 5, 2, 3, 6, 7, 4, 9, 8, 10, 1 };
+        int[] arr = { 2, 6, 5, 3, 4, 8, 7, 9, 1, 10 };
         heapSort(arr);
         for (int i : arr) {
             System.out.print(i + "  ");

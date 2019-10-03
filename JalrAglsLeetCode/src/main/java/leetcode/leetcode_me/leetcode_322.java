@@ -8,9 +8,10 @@ import java.util.Arrays;
  * <p>
  * Created by jalr on 2019/8/24.
  */
-public class leetcode_322 {
+
+class leetcode_322 {
     public int coinChange(int[] coins, int amount) {
-        if (amount <= 0) {
+        if (amount == 0) {
             return 0;
         }
         int[] dp = new int[amount + 1];
@@ -18,11 +19,11 @@ public class leetcode_322 {
         dp[0] = 0;
         for (int i = 1; i <= amount; i++) {
             for (int coin : coins) {
-                if (coin > i) { //面值无法凑
+                if (coin > i) {
                     continue;
                 }
-                int subProb = dp[i - coin] + 1;
-                dp[i] = Math.min(dp[i], subProb);
+                int choiceCur = dp[i - coin] + 1; //若选择当前面值的结果, 而 dp[i - coin] 已经知道
+                dp[i] = Math.min(choiceCur, dp[i]);
             }
         }
         return dp[amount] > amount ? -1 : dp[amount];

@@ -4,16 +4,43 @@
     <bookmark url="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/StringRank.java" line="41" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3ac7cc6-d288-4e90-ad32-709f23adf961" name="Default" comment="八月刷的部分题目：dp、贪心、树、回溯等，更新之前写的部分翔一样的实现">
-      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/BiTreeAndDoubleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/BiTreePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/ComplexListCopy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/StringRank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_20.java" afterDir="false" />
+    <list default="true" id="d3ac7cc6-d288-4e90-ad32-709f23adf961" name="Default" comment="九月的部分题忘记提交了, 小部分 dp">
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/DuXiaoMan/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/SNAQI/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/SuiShou/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Tcent/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Xiaomi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/common/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/concurrent/OneToHundredTwoThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/ChildGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/IntegerFromOneToN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/MinKthElementInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/NumIntParty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/OverHalfArrayNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/SortArrayToMinNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_120.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_198.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_213.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_384.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/newcoder/FindLegalStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/newcoder/StrIsSubAppend.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/DiDi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/DiDi/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Method/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Method/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/BinaryOneCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/BinaryOneCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/matrixFind.java" beforeDir="false" afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/MatrixFind.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/minfuncStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/MinfuncStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_110.java" beforeDir="false" afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_110.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_322.java" beforeDir="false" afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_322.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/sortReview/review1/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/sortReview/review1/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/sortReview/review1/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/sortReview/review1/QuickSort.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -50,10 +77,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/DiDi/Main.java">
+        <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/common/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+            <state relative-caret-position="76">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,47 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringRank.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/StringRank.java">
+      <file leaf-file-name="OneToHundredTwoThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/concurrent/OneToHundredTwoThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="leetcode_20.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_20.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="leetcode_14.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_14.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ComplexListCopy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/ComplexListCopy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BiTreeAndDoubleLinkedList.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/BiTreeAndDoubleLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+            <state relative-caret-position="1463">
+              <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -109,11 +100,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="List.java" pinned="false" current-in-tab="false">
-        <entry file="jar://D:/JDK/src.zip!/java/util/List.java">
+      <file leaf-file-name="leetcode_108.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_108.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1653">
-              <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+            <state relative-caret-position="133">
+              <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="leetcode_110.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_110.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="65">
+              <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinfuncStack.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/MinfuncStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="8" selection-start-column="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -137,6 +146,10 @@
       <find>put</find>
       <find>put(</find>
       <find>0</find>
+      <find>entrySet</find>
+      <find>rehash</find>
+      <find>96</find>
+      <find>TreeSet</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -149,7 +162,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="七月刷题计划" />
+        <entry key="$PROJECT_DIR$" value="八月刷题计划" />
       </map>
     </option>
     <option name="PUSH_TAGS">
@@ -177,40 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/newcoder/common/MaxSubArrLen.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Method/Test.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/PrintTreeUpDown.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/SeriallySubArrayMaxSum.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_CyC/leetcode_204.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Decorate/Biorogy.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Decorate/Biology.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Decorate/HumanDecorator.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Decorate/Human.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Decorate/SuperSaiyanIII.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Decorate/SuperSaiyanII.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Decorate/SuperSaiyanI.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Normal/Biology.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Normal/SuperSaiyanIII.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Normal/SuperSaiyanI.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Normal/SuperSaiyanII.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Decorate/Test.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Normal/Test.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/concurrent/ProducerConsumer.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/concurrent/leetcode_1114.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/concurrent/ABCSequence.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/newcoder/common/knapsack_01.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/newcoder/common/JudgePrimeNum.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_290.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_3.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_322.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/BinaryOneCount.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/NumIntExponent.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/AdjustArrayOddEvenNum.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/LinkListKthNode.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/ReverseList.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/MergeTwoOrderList.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/IsSubTree.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/BSTPreOrder.java" />
         <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/jianzhi20.java" />
         <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Main.java" />
         <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_46.java" />
@@ -225,9 +204,43 @@
         <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_14.java" />
         <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/ComplexListCopy.java" />
         <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/BiTreeAndDoubleLinkedList.java" />
-        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/DiDi/Main.java" />
         <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/StringRank.java" />
         <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_20.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_384.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/concurrent/ProducerConsumer.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/newcoder/common/knapsack_01.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Method/Test.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/MatrixFind.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/BinaryOneCount.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/NumIntParty.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_38.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Xiaomi/Main.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/DiDi/Main.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/SNAQI/Main.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/OverHalfArrayNum.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/MinKthElementInArray.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/IntegerFromOneToN.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/SortArrayToMinNum.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/newcoder/StrIsSubAppend.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/newcoder/FindLegalStr.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/ChildGame.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_64.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_62.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_70.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_198.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_213.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_322.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Tcent/Main.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/DuXiaoMan/Main.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/SuiShou/Main.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/sortReview/review1/QuickSort.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/sortReview/review1/HeapSort.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/common/MainII.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/common/Main.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/concurrent/OneToHundredTwoThread.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_108.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_110.java" />
+        <option value="$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/MinfuncStack.java" />
       </list>
     </option>
   </component>
@@ -246,10 +259,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1015" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
     <option name="y" value="35" />
-    <option name="width" value="915" />
+    <option name="width" value="1940" />
     <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -310,7 +323,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="DiDi" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JalrAlgsBin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JalrAlgsBin" type="462c0819:PsiDirectoryNode" />
+              <item name="JalrAglsLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JalrAlgsBin" type="b2602c69:ProjectViewProjectNode" />
@@ -335,9 +357,9 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -346,11 +368,11 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../practice/toutiao2" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.32628676" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
@@ -383,61 +405,61 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Mainii">
+  <component name="RunManager" selected="Application.Main">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.app.DiDi.Main" />
+    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.sortReview.review1.HeapSort" />
       <module name="JalrAlgsBin" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.app.DiDi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.jianzhi.Main" />
-      <module name="JalrAlgsBin" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="main.java.jianzhi.*" />
+          <option name="PATTERN" value="main.java.sortReview.review1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.app.Main" />
+      <option name="MAIN_CLASS_NAME" value="main.java.app.common.Main" />
       <module name="JalrAlgsBin" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.app.*" />
+          <option name="PATTERN" value="main.java.app.common.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Mainii" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.leetcode.leetcode_me.Mainii" />
+    <configuration name="MainII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.app.common.MainII" />
       <module name="JalrAlgsBin" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.leetcode.leetcode_me.*" />
+          <option name="PATTERN" value="main.java.app.common.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Sol121" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="main.java.jianzhi.Sol121" />
+    <configuration name="MainIIIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.app.Tcent.MainIIIII" />
       <module name="JalrAlgsBin" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="main.java.jianzhi.*" />
+          <option name="PATTERN" value="main.java.app.Tcent.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.java.sortReview.review1.QuickSort" />
+      <module name="JalrAlgsBin" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.java.sortReview.review1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -484,21 +506,24 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="Application.MainIIIII" />
+      <item itemvalue="Application.MainII" />
+      <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.HeapSort" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main (2)" />
-      <item itemvalue="Application.Sol121" />
-      <item itemvalue="Application.Mainii" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Mainii" />
-        <item itemvalue="Application.Sol121" />
-        <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.MainII" />
+        <item itemvalue="Application.HeapSort" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.MainIIIII" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_LAMBDA,SHOW_ANONYMOUS" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -541,7 +566,32 @@
       <workItem from="1567170120771" duration="1627000" />
       <workItem from="1567183128950" duration="3745000" />
       <workItem from="1567239659161" duration="4634000" />
-      <workItem from="1567254600511" duration="8529000" />
+      <workItem from="1567254600511" duration="9280000" />
+      <workItem from="1567307909299" duration="19584000" />
+      <workItem from="1567493861418" duration="18989000" />
+      <workItem from="1567581313920" duration="4215000" />
+      <workItem from="1567603394844" duration="515000" />
+      <workItem from="1567686451389" duration="1813000" />
+      <workItem from="1567769592794" duration="5596000" />
+      <workItem from="1567860179397" duration="2884000" />
+      <workItem from="1568015120745" duration="9631000" />
+      <workItem from="1568113248709" duration="9557000" />
+      <workItem from="1568178568493" duration="12285000" />
+      <workItem from="1568257386327" duration="14664000" />
+      <workItem from="1568308630640" duration="1201000" />
+      <workItem from="1568427526089" duration="18404000" />
+      <workItem from="1568517363576" duration="10082000" />
+      <workItem from="1568601633068" duration="6488000" />
+      <workItem from="1568980950295" duration="7622000" />
+      <workItem from="1569054326208" duration="826000" />
+      <workItem from="1569202583786" duration="1058000" />
+      <workItem from="1569284230725" duration="14476000" />
+      <workItem from="1569408558431" duration="1792000" />
+      <workItem from="1569461671964" duration="13712000" />
+      <workItem from="1569677391286" duration="682000" />
+      <workItem from="1569729872104" duration="259000" />
+      <workItem from="1569731970101" duration="1197000" />
+      <workItem from="1570109397424" duration="239000" />
     </task>
     <task id="LOCAL-00001" summary="链表、树、数组矩阵等">
       <created>1563942124158</created>
@@ -557,7 +607,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567083300413</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="抓住八月的尾巴再来一波，主要是回溯、字符串、树、链表等">
+      <created>1567276590041</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567276590042</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -572,77 +629,44 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="465373000" />
+    <option name="totallyTimeSpent" value="643895000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="23" width="1550" height="848" extended-state="6" />
+    <frame x="-8" y="28" width="1552" height="840" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.111398965" side_tool="true" weight="0.3626943" />
-      <window_info anchor="right" id="Maven Projects" order="7" weight="0.35695007" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="3" />
-      <window_info id="Designer" order="4" />
-      <window_info anchor="right" id="Database" order="8" weight="0.32972974" />
-      <window_info id="Structure" order="1" sideWeight="0.16129032" side_tool="true" visible="true" weight="0.22064777" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="6" />
-      <window_info anchor="right" x="31" y="256" width="1474" height="381" id="Debug" order="12" sideWeight="0.8694316" weight="0.24763833" />
       <window_info anchor="bottom" id="TODO" order="4" />
-      <window_info anchor="right" id="ASMPlugin" order="10" weight="0.3299595" />
-      <window_info anchor="bottom" id="Messages" order="5" weight="0.79569894" />
+      <window_info anchor="right" id="ASMPlugin" order="10" weight="0.34391892" />
+      <window_info active="true" anchor="bottom" id="Messages" order="5" visible="true" weight="0.60186625" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.111398965" side_tool="true" weight="0.3626943" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.35695007" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32896653" />
-      <window_info anchor="right" id="Run" order="3" sideWeight="0.6374808" weight="0.16396761" />
-      <window_info anchor="right" id="Coverage" order="11" sideWeight="0.13056836" side_tool="true" visible="true" weight="0.24763833" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.83870965" visible="true" weight="0.22064777" />
+      <window_info anchor="right" id="Run" order="3" sideWeight="0.6374808" weight="0.20148247" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.00921659" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6171875" visible="true" weight="0.2813765" />
+      <window_info anchor="right" id="Database" order="8" weight="0.32972974" />
       <window_info id="Learn" order="5" weight="0.3299595" />
+      <window_info id="Structure" order="1" sideWeight="0.3828125" side_tool="true" visible="true" weight="0.2813765" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="6" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="7" sideWeight="0.211838" side_tool="true" weight="0.2948718" />
+      <window_info anchor="right" x="31" y="256" width="1474" height="381" id="Debug" order="12" sideWeight="0.8694316" weight="0.21091644" />
       <window_info anchor="bottom" id="Inspection" order="3" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.010752688" />
-    </layout>
-    <layout-to-restore>
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.88860106" visible="true" weight="0.22887865" />
-      <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.010752688" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" sideWeight="0.211838" side_tool="true" weight="0.2948718" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.111398965" side_tool="true" weight="0.3626943" />
-      <window_info anchor="bottom" id="Messages" order="9" weight="0.35176653" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32896653" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3299595" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.788162" visible="true" weight="0.23851351" />
-      <window_info id="Learn" order="7" weight="0.3299595" />
-      <window_info anchor="right" id="Database" order="6" weight="0.32972974" />
+      <window_info anchor="bottom" id="Cvs" order="2" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="11" sideWeight="0.13056836" side_tool="true" weight="0.24763833" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info id="Structure" order="1" sideWeight="0.211838" side_tool="true" weight="0.2948718" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Coverage" order="10" side_tool="true" weight="0.3299595" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.88795334" weight="0.51152074" />
-      <window_info anchor="right" id="ASMPlugin" order="9" weight="0.3299595" />
-    </layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -654,7 +678,9 @@
     <MESSAGE value="链表、树、数组矩阵等" />
     <MESSAGE value="八月刷的部分题目：dp、贪心、树、回溯等" />
     <MESSAGE value="八月刷的部分题目：dp、贪心、树、回溯等，更新之前写的部分翔一样的实现" />
-    <option name="LAST_COMMIT_MESSAGE" value="八月刷的部分题目：dp、贪心、树、回溯等，更新之前写的部分翔一样的实现" />
+    <MESSAGE value="抓住八月的尾巴再来一波，主要是回溯、字符串、树、链表等" />
+    <MESSAGE value="九月的部分题忘记提交了, 小部分 dp" />
+    <option name="LAST_COMMIT_MESSAGE" value="九月的部分题忘记提交了, 小部分 dp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -690,314 +716,397 @@
           <option name="timeStamp" value="106" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Main.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="156" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/StringRank.java</url>
           <line>26</line>
           <properties />
           <option name="timeStamp" value="217" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/SNAQI/Main.java</url>
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/OverHalfArrayNum.java</url>
+          <line>45</line>
+          <properties />
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Tcent/Main.java</url>
+          <line>154</line>
+          <properties />
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/common/Main.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="220" />
+      <option name="time" value="333" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/newcoder/common/ContinueArrayMaxSum.java">
+    <entry file="jar://D:/JDK/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        <state relative-caret-position="183">
+          <caret line="411" column="38" selection-start-line="411" selection-start-column="38" selection-end-line="411" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/sortReview/review1/HeapSort.java">
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/FindBiTreeNext.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        <state relative-caret-position="-171">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/common/IntegerFactorial.java">
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/MatrixFind.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="42" selection-start-line="16" selection-start-column="42" selection-end-line="16" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Decorate/Biology.java" />
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Normal/Human.java" />
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Normal/SuperSaiyanI.java" />
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Normal/SuperSaiyanIII.java" />
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Normal/Biology.java" />
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Decorate/HumanDecorator.java" />
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Decorate/SuperSaiyanI.java" />
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Decorate/SuperSaiyanII.java" />
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Decorate/Human.java" />
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Decorate/SuperSaiyanIII.java" />
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Normal/SuperSaiyanII.java" />
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Decorate/Test.java" />
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Normal/Test.java" />
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Method/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="56" lean-forward="true" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/concurrent/ABCSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-304">
-          <caret line="14" column="32" lean-forward="true" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/concurrent/leetcode_1114.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/concurrent/ProducerConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/newcoder/common/JudgePrimeNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/newcoder/common/knapsack_01.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="32" column="21" lean-forward="true" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_290.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-36">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_322.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="27" column="53" lean-forward="true" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/NumIntExponent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/BinaryOneCount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        <state relative-caret-position="228">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/AdjustArrayOddEvenNum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="33" column="9" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/findListFirstNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="206">
-          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/LinkListKthNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/ReverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="11" selection-start-line="11" selection-end-line="48" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/MergeTwoOrderList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="44" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/IsSubTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/BSTPreOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
-          <folding>
-            <element signature="e#217#218#0" expanded="true" />
-            <element signature="e#247#248#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_46.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_39.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/MockStackPopSequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/SlidingWnd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="10" column="15" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/TwoStackQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/SerializeBiTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-465">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/SerializeBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_13.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-95">
-          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/JDK/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1653">
-          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/BiTreePaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/ComplexListCopy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="41" column="13" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+        <state relative-caret-position="278">
+          <caret line="27" column="18" lean-forward="true" selection-start-line="27" selection-start-column="18" selection-end-line="27" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/BiTreeAndDoubleLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="21" column="45" lean-forward="true" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="399">
+          <caret line="21" column="45" selection-start-line="21" selection-start-column="45" selection-end-line="21" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/BiTreePaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/BinaryOneCount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Main.java" />
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/NumIntParty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/src.zip!/java/util/Hashtable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4123">
+          <caret line="244" column="5" selection-start-line="244" selection-start-column="5" selection-end-line="244" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/src.zip!/java/util/concurrent/ConcurrentHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="1012" column="25" selection-start-line="1012" selection-start-column="25" selection-end-line="1012" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/newcoder/programmerguide/AppendStrLexicographicalOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/jre/lib/rt.jar!/sun/misc/Unsafe.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/newcoder/common/knapsack_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/src.zip!/java/util/concurrent/atomic/AtomicReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="52" column="27" lean-forward="true" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/DiDi/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        <state relative-caret-position="610">
+          <caret line="41" column="27" selection-start-line="41" selection-start-column="27" selection-end-line="41" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_38.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="31" lean-forward="true" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/BiTreeMirror.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Xiaomi/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Method/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/OverHalfArrayNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="46" column="5" lean-forward="true" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/StringRank.java">
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/IntegerFromOneToN.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="29" column="21" lean-forward="true" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        <state relative-caret-position="494">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_20.java">
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/MinKthElementInArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="31" selection-end-column="16" />
+        <state relative-caret-position="192">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/SortArrayToMinNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="46" column="1" lean-forward="true" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/sortReview/review1/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="27" column="9" selection-start-line="27" selection-start-column="9" selection-end-line="27" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/StringRank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="13" column="30" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/SNAQI/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/newcoder/StrIsSubAppend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/newcoder/FindLegalStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="31" column="9" lean-forward="true" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="524" selection-start-line="524" selection-end-line="524" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/ChildGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_198.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_213.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_64.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_70.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_62.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_322.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/Tcent/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="98" column="9" lean-forward="true" selection-start-line="98" selection-start-column="9" selection-end-line="98" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/DuXiaoMan/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/SuiShou/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="54" column="22" lean-forward="true" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/sortReview/review1/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/common/MainII.java" />
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/sortReview/review1/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="38" column="41" lean-forward="true" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/src.zip!/java/util/concurrent/locks/Condition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3615">
+          <caret line="178" column="17" selection-start-line="178" selection-start-column="17" selection-end-line="178" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="1839" column="15" selection-start-line="1839" selection-start-column="15" selection-end-line="1839" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JDK/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="167" column="33" lean-forward="true" selection-start-line="167" selection-start-column="33" selection-end-line="167" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/app/common/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/concurrent/OneToHundredTwoThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1463">
+          <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_108.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/leetcode/leetcode_me/leetcode_110.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="20" column="39" lean-forward="true" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JalrAglsLeetCode/src/main/java/jianzhi/MinfuncStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1058,6 +1167,7 @@
             <option name="proportions">
               <list>
                 <option value="0.32628676" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

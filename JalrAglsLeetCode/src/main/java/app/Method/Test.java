@@ -13,20 +13,27 @@ import java.util.Arrays;
 public class Test {
 
     private static int getLen(int[] nums) {
-        Arrays.sort(nums);
-        int consistent = 1;
-        int maxConsistent = 1;
-        int pLeft = 0;
-        for (int i = 1; i < nums.length; i++) {
-            if (nums[i] - nums[i - 1] == 1) {
-                consistent++;
-            } else {
-                consistent = 1;
-            }
-            maxConsistent = maxConsistent > consistent ? maxConsistent : consistent;
+        if (nums == null || nums.length == 0) {
+            System.out.println("0");
+            return 0;
         }
-        System.out.println("Result: " + maxConsistent);
-        return maxConsistent;
+        boolean[] visited = new boolean[nums.length];
+        int res = 0;
+
+//        for (int i = 0; i < nums.length - 1; i++) {
+//            for (int j = i + 1; j < nums.length; j++) {
+//                if (!visited[i]) {
+//                    long cur = nums[i];
+//                    long next = nums[j];
+//                    if (cur + next == 0) {
+//                        visited[j] = true;
+//                        res++;
+//                    }
+//                }
+//            }
+//        }
+        System.out.println(res);
+        return res;
     }
 
 
@@ -88,7 +95,7 @@ public class Test {
     // for test
     public static void main(String[] args) {
         int testTime = 20;
-        int maxSize = 20;
+        int maxSize = 6;
         int maxValue = 100;
         boolean succeed = true;
         for (int i = 0; i < testTime; i++) {
@@ -96,8 +103,6 @@ public class Test {
             getLen(arr1);
             printArray(arr1);
         }
-//        int[] nums = {-56, -52, -32, -12, -9, -8, 14, 18, 51, 66};
-//        System.out.println(getLen(nums));
     }
 
 }

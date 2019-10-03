@@ -1,8 +1,8 @@
-package common.NoneRecursive;
+package main.java.sortReview.review1;
 
 class QuickSort {
     public static void main(String[] args) {
-        int[] arr = { 5, 2, 3, 6, 7, 4, 9, 8, 10, 1 };
+        int[] arr = { 2, 6, 5, 3, 4, 8, 7, 9, 1, 10};
         quickSort(arr, 0, arr.length - 1);
         for (int i : arr) {
             System.out.print(i + "  ");

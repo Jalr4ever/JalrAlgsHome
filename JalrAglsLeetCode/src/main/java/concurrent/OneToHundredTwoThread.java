@@ -24,7 +24,6 @@ class T1 extends Thread {
         this.count = count;
     }
 
-    @Override
     public void run() {
         lock.lock();
         try {
@@ -50,7 +49,6 @@ class T2 extends Thread {
         this.count = count;
     }
 
-    @Override
     public void run() {
         lock.lock();
         try {
@@ -65,7 +63,7 @@ class T2 extends Thread {
         }
     }
 
-    static void working(AtomicInteger count, Condition c1, Condition c2) throws InterruptedException {
+    public static void working(AtomicInteger count, Condition c1, Condition c2) throws InterruptedException {
         while (count.get() <= 100) {
             System.out.println(count);
             count.incrementAndGet();

@@ -7,12 +7,12 @@ import java.util.concurrent.Semaphore;
  * @description: Created by jalr on 2019/8/22.
  */
 
-class T1 extends Thread {
+class ABCT1 extends Thread {
 
     private Semaphore smphr1;
     private Semaphore smphr2;
 
-    public T1(Semaphore s1, Semaphore s2) {
+    public ABCT1(Semaphore s1, Semaphore s2) {
         this.smphr1 = s1;
         this.smphr2 = s2;
     }
@@ -33,11 +33,11 @@ class T1 extends Thread {
     }
 }
 
-class T2 extends Thread {
+class ABCT2 extends Thread {
     private Semaphore smphr3;
     private Semaphore smphr2;
 
-    public T2(Semaphore s2, Semaphore s3) {
+    public ABCT2(Semaphore s2, Semaphore s3) {
         this.smphr2 = s2;
         this.smphr3 = s3;
     }
@@ -87,8 +87,8 @@ class ABCSequence {
         Semaphore s1 = new Semaphore(1);
         Semaphore s2 = new Semaphore(0);
         Semaphore s3 = new Semaphore(0);
-        new T1(s1, s2).start();
-        new T2(s2, s3).start();
+        new ABCT1(s1, s2).start();
+        new ABCT2(s2, s3).start();
         new T3(s3, s1).start();
 
     }
